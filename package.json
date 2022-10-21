@@ -1,16 +1,16 @@
 {
-  "name": "@pancakeswap/sdk",
+  "name": "@beamswap/sdk",
   "license": "MIT",
   "version": "2.4.3",
-  "description": "🛠 An SDK for building applications on top of Pancakeswap.",
+  "description": "🛠 An SDK for building applications on top of beamswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-swap-sdk.git",
+  "repository": "git@github.com:AmbireTech/beamswap-sdk.git",
   "keywords": [
-    "pancakeswap",
+    "beamswap",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
