@@ -68,18 +68,18 @@ export function currencyEquals(currencyA: Currency, currencyB: Currency): boolea
 export const WETH = {
   [ChainId.MAINNET]: new Token(
     ChainId.MAINNET,
-    '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
+    '0xAcc15dC74880C9944775448304B263D191c6077F',
     18,
-    'WBNB',
-    'Wrapped BNB',
-    'https://www.binance.org'
+    'WGLMR',
+    'Wrapped GLMR',
+    'https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xAcc15dC74880C9944775448304B263D191c6077F/logo.png'
   ),
   [ChainId.TESTNET]: new Token(
     ChainId.TESTNET,
-    '0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd',
+    '0x9dCca533798Aae4EC78cFEb057cb7745DcDe3048',
     18,
-    'WBNB',
-    'Wrapped BNB',
-    'https://www.binance.org'
+    'WGLMR',
+    'Wrapped GLMR',
+    'https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xAcc15dC74880C9944775448304B263D191c6077F/logo.png'
   )
 }
